@@ -1,0 +1,28 @@
+$primaryColor: #BADA55;
+
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 25%;
+}
+
+th {
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    border: 1px solid #3c3c3c;
+    text-align: left;
+    padding: 8px;
+}
+
+
+tr:hover{
+    background-color: #BADA55
+}
+.table-checked{
+    background-color: #ffffb3;
+}
